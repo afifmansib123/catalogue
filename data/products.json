@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Thai Jasmine Rice Premium",
+    "description": "Premium quality Thai jasmine rice, perfect for restaurants and retail. Aromatic and fluffy texture.",
+    "price": 45,
+    "shippingPrice": 8,
+    "unit": "kg",
+    "image": "/images/jasmine-rice.jpg",
+    "images": [
+      "/images/jasmine-rice.jpg",
+      "/images/jasmine-rice-2.jpg",
+      "/images/jasmine-rice-packaging.jpg"
+    ],
+    "category": "Rice & Grains"
+  },
+  {
+    "id": 2,
+    "name": "Thai Green Curry Paste",
+    "description": "Authentic Thai green curry paste made with fresh herbs and spices. Ready to use for restaurants.",
+    "price": 12,
+    "shippingPrice": 3,
+    "unit": "500g",
+    "image": "/images/green-curry-paste.jpg",
+    "images": [
+      "/images/green-curry-paste.jpg",
+      "/images/green-curry-paste-ingredients.jpg"
+    ],
+    "category": "Curry Pastes"
+  },
+  {
+    "id": 3,
+    "name": "Thai Fish Sauce Premium",
+    "description": "Premium Thai fish sauce, essential for authentic Thai cooking. Perfect for restaurants and food businesses.",
+    "price": 8,
+    "shippingPrice": 2,
+    "unit": "700ml",
+    "image": "/images/fish-sauce.jpg",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 4,
+    "name": "Thai Coconut Milk",
+    "description": "Rich and creamy Thai coconut milk, perfect for curries and desserts. High quality for commercial use.",
+    "price": 6,
+    "shippingPrice": 2,
+    "unit": "400ml",
+    "image": "/images/coconut-milk.jpg",
+    "images": [
+      "/images/coconut-milk.jpg",
+      "/images/coconut-milk-can.jpg",
+      "/images/coconut-milk-usage.jpg"
+    ],
+    "category": "Dairy & Beverages"
+  },
+  {
+    "id": 5,
+    "name": "Thai Red Curry Paste",
+    "description": "Spicy and aromatic Thai red curry paste. Traditional recipe perfect for authentic Thai dishes.",
+    "price": 12,
+    "shippingPrice": 3,
+    "unit": "500g",
+    "image": "/images/red-curry-paste.jpg",
+    "category": "Curry Pastes"
+  },
+  {
+    "id": 6,
+    "name": "Thai Sticky Rice",
+    "description": "Traditional Thai sticky rice, perfect for desserts and side dishes. Premium quality for restaurants.",
+    "price": 38,
+    "shippingPrice": 7,
+    "unit": "kg",
+    "image": "/images/sticky-rice.jpg",
+    "images": [
+      "/images/sticky-rice.jpg",
+      "/images/sticky-rice-cooked.jpg",
+      "/images/sticky-rice-dessert.jpg",
+      "/images/sticky-rice-packaging.jpg"
+    ],
+    "category": "Rice & Grains"
+  }
+]
