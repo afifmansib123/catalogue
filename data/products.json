@@ -1,82 +1,552 @@
 [
   {
     "id": 1,
-    "name": "Thai Jasmine Rice Premium",
-    "description": "Premium quality Thai jasmine rice, perfect for restaurants and retail. Aromatic and fluffy texture.",
+    "name": "Bhaesaj Personal Care Collection",
+    "shortDescription": "Complete range of Thai personal care products including shampoos, hair treatments, and facial cleansers.",
+    "description": "Premium BHESAJ brand collection featuring multiple product variants designed for different hair and skin care needs.",
     "price": 45,
     "shippingPrice": 8,
-    "unit": "kg",
-    "image": "/images/jasmine-rice.jpg",
+    "unit": "set",
+    "image": "/images/b1.jpg",
     "images": [
-      "/images/jasmine-rice.jpg",
-      "/images/jasmine-rice-2.jpg",
-      "/images/jasmine-rice-packaging.jpg"
+      "/images/b1.jpg",
+      "/images/b2.jpg", 
+      "/images/b3.jpg",
+      "/images/b4.jpg",
+      "/images/b5.jpg",
+      "/images/b6.jpg",
+      "/images/b7.jpg"
     ],
-    "category": "Rice & Grains"
+    "category": "Personal Care",
+    "brand": "BHESAJ",
+    "variants": [
+      {
+        "name": "Anti-Dandruff Shampoo",
+        "description": "Blue bottle - Effective dandruff treatment",
+        "image": "/images/b1.jpg",
+        "price": 70
+      },
+      {
+        "name": "Hair Treatment Conditioner", 
+        "description": "Pink bottle - Deep conditioning treatment",
+        "image": "/images/kon.jpg",
+        "price": 50
+      },
+      {
+        "name": "Floral Rose Shampoo",
+        "description": "Pink bottle with flowers - Gentle cleansing",
+        "image": "/images/b3.jpg", 
+        "price": 50
+      },
+      {
+        "name": "Herbal Green Tea Shampoo",
+        "description": "Green bottle - Natural herbal formula",
+        "image": "/images/b4.jpg",
+        "price": 50
+      },
+      {
+        "name": "Facial Cleanser Set",
+        "description": "Pink tubes in box - Complete facial care",
+        "image": "/images/b5.jpg",
+        "price": 70
+      },
+      {
+        "name": "Facial Foam Cleanser",
+        "description": "White and pink tubes - Daily face wash",
+        "image": "/images/b6.jpg",
+        "price": 50
+      },
+      {
+        "name": "Face Wash Cleanser",
+        "description": "Pink and white tubes - Gentle cleansing",
+        "image": "/images/b7.jpg",
+        "price": 20
+      }
+    ],
+    "features": [
+      "Multiple product variants",
+      "Premium Thai quality", 
+      "Suitable for all skin types",
+      "Natural ingredients"
+    ],
+    "inStock": true
   },
   {
     "id": 2,
-    "name": "Thai Green Curry Paste",
-    "description": "Authentic Thai green curry paste made with fresh herbs and spices. Ready to use for restaurants.",
-    "price": 12,
-    "shippingPrice": 3,
-    "unit": "500g",
-    "image": "/images/green-curry-paste.jpg",
+    "name": "Kodomo Baby Care Collection",
+    "shortDescription": "Complete range of premium Japanese baby care products including head-to-toe wash, shampoos, powders, and lotions.",
+    "description": "Premium Kodomo brand collection featuring comprehensive baby care products designed for gentle and safe care of babies and children. Includes organic formulas, mosquito protection, and various size options for different needs.",
+    "price": 6000,
+    "shippingPrice": 8,
+    "unit": "piece",
+    "image": "/images/k1.jpg",
     "images": [
-      "/images/green-curry-paste.jpg",
-      "/images/green-curry-paste-ingredients.jpg"
+      "/images/k1.jpg", "/images/k2.jpg", "/images/k3.jpg", "/images/k4.jpg", "/images/k5.jpg",
+      "/images/k6.jpg", "/images/k7.jpg", "/images/k8.jpg", "/images/k9.jpg", "/images/k10.jpg",
+      "/images/k11.jpg", "/images/k12.jpg", "/images/k13.jpg", "/images/k14.jpg", "/images/k15.jpg",
+      "/images/k16.jpg", "/images/k17.jpg", "/images/k18.jpg", "/images/k19.jpg", "/images/k20.jpg",
+      "/images/k21.jpg", "/images/k22.jpg", "/images/k23.jpg", "/images/k24.jpg", "/images/k25.jpg",
+      "/images/k26.jpg", "/images/k27.jpg", "/images/k28.jpg", "/images/k29.jpg", "/images/k30.jpg",
+      "/images/k31.jpg", "/images/k32.jpg", "/images/k33.jpg", "/images/k34.jpg", "/images/k35.jpg",
+      "/images/k36.jpg", "/images/k37.jpg", "/images/k38.jpg", "/images/k39.jpg", "/images/k40.jpg",
+      "/images/k41.jpg", "/images/k42.jpg", "/images/k43.jpg"
     ],
-    "category": "Curry Pastes"
+    "category": "Baby Care",
+    "brand": "Kodomo",
+    "variants": [
+      {
+        "name": "Oganiku Head to Toe Wash 720ml",
+        "description": "720ml - Organic head to toe wash for daily care",
+        "image": "/images/k1.jpg",
+        "price": 3010
+      },
+      {
+        "name": "Head to Toe Mild Original Prebiotic 800ml",
+        "description": "800ml - Mild original formula with prebiotic",
+        "image": "/images/k2.jpg",
+        "price": 2795
+      },
+      {
+        "name": "Head to Toe Pink Hana Prebiotic 800ml",
+        "description": "800ml - Pink Hana formula with prebiotic",
+        "image": "/images/k3.jpg",
+        "price": 2795
+      },
+      {
+        "name": "Oganiku Head to Toe Wash 360ml",
+        "description": "360ml - Organic head to toe wash",
+        "image": "/images/k4.jpg",
+        "price": 4128
+      },
+      {
+        "name": "Head to Toe Mild Original Prebiotic 400ml",
+        "description": "400ml - Mild original formula with prebiotic",
+        "image": "/images/k5.jpg",
+        "price": 4128
+      },
+      {
+        "name": "Head to Toe Pink Hanabaki 400ml",
+        "description": "400ml - Pink Hanabaki formula",
+        "image": "/images/k6.jpg",
+        "price": 4128
+      },
+      {
+        "name": "Head to Toe Mild Original 200ml",
+        "description": "200ml - Mild original formula",
+        "image": "/images/k7.jpg",
+        "price": 4472
+      },
+      {
+        "name": "Head to Toe Pink Hanabaki 200ml",
+        "description": "200ml - Pink Hanabaki formula",
+        "image": "/images/k8.jpg",
+        "price": 4472
+      },
+      {
+        "name": "Oganiku Head to Toe Wash 320ml",
+        "description": "320ml - Organic head to toe wash",
+        "image": "/images/k9.jpg",
+        "price": 5877
+      },
+      {
+        "name": "Head to Toe 350ml",
+        "description": "350ml - Standard head to toe wash",
+        "image": "/images/k10.jpg",
+        "price": 5877
+      },
+      {
+        "name": "Head to Toe Pink Hanabaki 350ml",
+        "description": "350ml - Pink Hanabaki formula",
+        "image": "/images/k3.jpg",
+        "price": 5877
+      },
+      {
+        "name": "Blue Candy Head to Toe Kids 400ml",
+        "description": "400ml - Blue candy scented for kids",
+        "image": "/images/k12.jpg",
+        "price": 4128
+      },
+      {
+        "name": "Apple Peach Head to Toe Kids 400ml",
+        "description": "400ml - Apple peach scented for kids",
+        "image": "/images/k14.jpg",
+        "price": 4128
+      },
+      {
+        "name": "Head to Toe Kids Pink 400ml",
+        "description": "400ml - Pink formula for kids",
+        "image": "/images/k3.jpg",
+        "price": 4128
+      },
+      {
+        "name": "Head to Toe Kids Red Berry 400ml",
+        "description": "400ml - Red berry scented for kids",
+        "image": "/images/k15.jpg",
+        "price": 4128
+      },
+      {
+        "name": "Blue Candy Head to Toe Kids 200ml",
+        "description": "200ml - Blue candy scented for kids",
+        "image": "/images/k16.jpg",
+        "price": 2236
+      },
+      {
+        "name": "Apple Peach Head to Toe Kids 200ml",
+        "description": "200ml - Apple peach scented for kids",
+        "image": "/images/k14.jpg",
+        "price": 2236
+      },
+      {
+        "name": "Head to Toe Kids Pink 200ml",
+        "description": "200ml - Pink formula for kids",
+        "image": "/images/k2.jpg",
+        "price": 2236
+      },
+      {
+        "name": "Head to Toe Kids Red Berry 200ml",
+        "description": "200ml - Red berry scented for kids",
+        "image": "/images/k15.jpg",
+        "price": 2236
+      },
+      {
+        "name": "Head to Toe Magic Purple 200ml",
+        "description": "200ml - Magic purple formula for kids",
+        "image": "/images/k20.jpg",
+        "price": 2236
+      },
+      {
+        "name": "Original Shampoo 400ml",
+        "description": "400ml - Original gentle shampoo",
+        "image": "/images/k21.jpeg",
+        "price": 3061
+      },
+      {
+        "name": "Gentle Shampoo 400ml",
+        "description": "400ml - Extra gentle shampoo",
+        "image": "/images/k22.jpg",
+        "price": 3061
+      },
+      {
+        "name": "Shampoo Kids Pink Pearl 200ml",
+        "description": "200ml - Pink pearl shampoo for kids",
+        "image": "/images/k23.jpg",
+        "price": 2236
+      },
+      {
+        "name": "Shampoo Kids Pink 200ml",
+        "description": "200ml - Pink shampoo for kids",
+        "image": "/images/k23.jpg",
+        "price": 2236
+      },
+      {
+        "name": "Conditioner Kids Pink 150ml",
+        "description": "150ml - Pink conditioner for kids",
+        "image": "/images/con.jpg",
+        "price": 2064
+      },
+      {
+        "name": "Powder Sweetie Cool 350g",
+        "description": "350g - Sweetie cool scented powder",
+        "image": "/images/k26.jpg",
+        "price": 18685
+      },
+      {
+        "name": "Powder Mosquito Protect 350g",
+        "description": "350g - Mosquito protection powder",
+        "image": "/images/k27.jpg",
+        "price": 18685
+      },
+      {
+        "name": "Gentle Soft Powder 350g",
+        "description": "350g - Gentle soft formula powder",
+        "image": "/images/k28.jpg",
+        "price": 18685
+      },
+      {
+        "name": "Powder Sunshine Kid 350g",
+        "description": "350g - Sunshine scented powder for kids",
+        "image": "/images/k29.jpg",
+        "price": 18685
+      },
+      {
+        "name": "Powder Organic Aloe Vera 350g",
+        "description": "350g - Organic aloe vera powder",
+        "image": "/images/k30.jpg",
+        "price": 18685
+      },
+      {
+        "name": "Extra Mild Powder 350g",
+        "description": "350g - Extra mild formula powder",
+        "image": "/images/k31.jpg",
+        "price": 18685
+      },
+      {
+        "name": "Powder Mosquito Protect 160g",
+        "description": "160g - Mosquito protection powder",
+        "image": "/images/k27.jpg",
+        "price": 3715
+      },
+      {
+        "name": "Gentle Powder 160g",
+        "description": "160g - Gentle formula powder",
+        "image": "/images/k28.jpg",
+        "price": 3715
+      },
+      {
+        "name": "Extra Mild Powder 160g",
+        "description": "160g - Extra mild formula powder",
+        "image": "/images/k31.jpg",
+        "price": 3715
+      },
+      {
+        "name": "Powder Mosquito Protect 50g",
+        "description": "50g - Travel size mosquito protection powder",
+        "image": "/images/k27.jpg",
+        "price": 3317
+      },
+      {
+        "name": "Gentle Powder 50g",
+        "description": "50g - Travel size gentle powder",
+        "image": "/images/k28.jpg",
+        "price": 3317
+      },
+      {
+        "name": "Powder Extra Mild 50g",
+        "description": "50g - Travel size extra mild powder",
+        "image": "/images/k31.jpg",
+        "price": 3317
+      },
+      {
+        "name": "Lotion Powder Newborn 400ml",
+        "description": "400ml - Powder lotion for newborns",
+        "image": "/images/k38.jpg",
+        "price": 5398
+      },
+      {
+        "name": "Lotion Powder Pink Hanabaki 400ml",
+        "description": "400ml - Pink Hanabaki powder lotion",
+        "image": "/images/k38.jpg",
+        "price": 5398
+      },
+      {
+        "name": "Lotion Powder 180ml",
+        "description": "180ml - Standard powder lotion",
+        "image": "/images/k38.jpg",
+        "price": 6197
+      },
+      {
+        "name": "Lotion Powder Pink Variant 180ml",
+        "description": "180ml - Pink variant powder lotion",
+        "image": "/images/k40.jpg",
+        "price": 6197
+      },
+      {
+        "name": "Gift Set Large",
+        "description": "Large gift set - Complete baby care collection",
+        "image": "/images/kl.jpg",
+        "price": 8312
+      },
+      {
+        "name": "Gift Set Small",
+        "description": "Small gift set - Essential baby care items",
+        "image": "/images/kl.jpg",
+        "price": 5897
+      }
+    ],
+    "features": [
+      "Premium Japanese baby care",
+      "Organic and gentle formulas",
+      "Mosquito protection options",
+      "Multiple size variations",
+      "Safe for newborns and children",
+      "Prebiotic formulations available"
+    ],
+    "inStock": true
   },
   {
     "id": 3,
-    "name": "Thai Fish Sauce Premium",
-    "description": "Premium Thai fish sauce, essential for authentic Thai cooking. Perfect for restaurants and food businesses.",
-    "price": 8,
-    "shippingPrice": 2,
-    "unit": "700ml",
-    "image": "/images/fish-sauce.jpg",
-    "category": "Sauces & Condiments"
+    "name": "Gluta Collagen Health Supplement Collection",
+    "shortDescription": "Complete range of glutathione and collagen supplements for skin whitening and anti-aging benefits.",
+    "description": "Premium Gluta brand collection featuring multiple supplement variants designed for skin whitening, anti-aging, and overall health benefits. Each variant offers unique formulations for different needs.",
+    "price": 40,
+    "shippingPrice": 8,
+    "unit": "pack",
+    "image": "/images/g1.jpg",
+    "images": [
+      "/images/g1.jpg",
+      "/images/g2.jpg",
+      "/images/g3.jpg",
+      "/images/g4.jpg"
+    ],
+    "category": "Health Supplements",
+    "brand": "Gluta",
+    "variants": [
+      {
+        "name": "Gluta Collagen Mixed Berry",
+        "description": "Pink pack - Glutathione & collagen with mixed berry flavor",
+        "image": "/images/g1.jpg",
+        "price": 35
+      },
+      {
+        "name": "Gluta Collagen Bird Nest",
+        "description": "Blue pack - Premium formula with bird's nest extract",
+        "image": "/images/g2.jpg",
+        "price": 55
+      },
+      {
+        "name": "Gluta Collagen Pink Formula",
+        "description": "Pink pack - Special formula with berry extracts",
+        "image": "/images/g3.jpg",
+        "price": 38
+      },
+      {
+        "name": "Gluta Amazing Antioxidant Complex",
+        "description": "Purple pack - Advanced antioxidant complex formula",
+        "image": "/images/g4.jpg",
+        "price": 42
+      }
+    ],
+    "features": [
+      "Multiple supplement variants",
+      "Glutathione & collagen formula",
+      "Skin whitening benefits",
+      "Anti-aging properties",
+      "Premium quality ingredients"
+    ],
+    "inStock": true
   },
   {
     "id": 4,
-    "name": "Thai Coconut Milk",
-    "description": "Rich and creamy Thai coconut milk, perfect for curries and desserts. High quality for commercial use.",
-    "price": 6,
-    "shippingPrice": 2,
-    "unit": "400ml",
-    "image": "/images/coconut-milk.jpg",
+    "name": "Vita C+ Vitamin C Supplement",
+    "shortDescription": "High-potency Vitamin C supplement in convenient powder form for immune support and skin health.",
+    "description": "Premium Vitamin C supplement in easy-to-mix powder form. Provides high-potency vitamin C for immune system support, collagen synthesis, and overall skin health. Perfect for daily wellness routine.",
+    "price": 28,
+    "shippingPrice": 8,
+    "unit": "pack",
+    "image": "/images/c.jpg",
     "images": [
-      "/images/coconut-milk.jpg",
-      "/images/coconut-milk-can.jpg",
-      "/images/coconut-milk-usage.jpg"
+      "/images/c.jpg"
     ],
-    "category": "Dairy & Beverages"
+    "category": "Health Supplements",
+    "brand": "Vita C+",
+    "features": [
+      "High-potency Vitamin C",
+      "Easy-to-mix powder",
+      "Immune system support",
+      "Collagen synthesis",
+      "Daily wellness supplement"
+    ],
+    "inStock": true
   },
   {
     "id": 5,
-    "name": "Thai Red Curry Paste",
-    "description": "Spicy and aromatic Thai red curry paste. Traditional recipe perfect for authentic Thai dishes.",
-    "price": 12,
-    "shippingPrice": 3,
-    "unit": "500g",
-    "image": "/images/red-curry-paste.jpg",
-    "category": "Curry Pastes"
+    "name": "VATINY UV Powder Cover Collection",
+    "shortDescription": "Professional UV protection powder compact collection with multiple shade options for flawless coverage.",
+    "description": "Premium VATINY UV Powder Cover collection featuring professional-grade powder compacts with UV protection. Available in multiple shades to match different skin tones, providing excellent coverage and sun protection.",
+    "price": 32,
+    "shippingPrice": 8,
+    "unit": "piece",
+    "image": "/images/v1.jpg",
+    "images": [
+      "/images/v1.jpg",
+      "/images/v2.jpg",
+      "/images/v3.jpg"
+    ],
+    "category": "Cosmetics",
+    "brand": "VATINY",
+    "variants": [
+      {
+        "name": "UV Powder Cover - Shade No.1",
+        "description": "Light shade - Perfect for fair skin tones",
+        "image": "/images/v1.jpg",
+        "price": 32
+      },
+      {
+        "name": "UV Powder Cover - Shade No.2",
+        "description": "Medium shade - Ideal for medium skin tones",
+        "image": "/images/v2.jpg",
+        "price": 32
+      },
+      {
+        "name": "UV Powder Cover - Shade No.3",
+        "description": "Deep shade - Suitable for darker skin tones",
+        "image": "/images/v3.jpg",
+        "price": 32
+      }
+    ],
+    "features": [
+      "UV protection formula",
+      "Multiple shade options",
+      "Professional powder compact",
+      "Long-lasting coverage",
+      "Portable mirror included"
+    ],
+    "inStock": true
   },
   {
     "id": 6,
-    "name": "Thai Sticky Rice",
-    "description": "Traditional Thai sticky rice, perfect for desserts and side dishes. Premium quality for restaurants.",
+    "name": "SKY Premium Skincare Collection",
+    "shortDescription": "Complete range of premium Thai skincare products including face creams, herbal balms, and anti-aging treatments.",
+    "description": "Premium SKY brand collection featuring multiple skincare variants designed for different skin care needs. Includes herbal face creams, whitening treatments, anti-aging balms, and premium skincare solutions.",
     "price": 38,
-    "shippingPrice": 7,
-    "unit": "kg",
-    "image": "/images/sticky-rice.jpg",
+    "shippingPrice": 8,
+    "unit": "jar",
+    "image": "/images/x1.jpg",
     "images": [
-      "/images/sticky-rice.jpg",
-      "/images/sticky-rice-cooked.jpg",
-      "/images/sticky-rice-dessert.jpg",
-      "/images/sticky-rice-packaging.jpg"
+      "/images/x1.jpg",
+      "/images/x2.jpg", 
+      "/images/x3.jpg",
+      "/images/x4.jpg",
+      "/images/x5.jpg",
+      "/images/x6.jpg"
     ],
-    "category": "Rice & Grains"
+    "category": "Skincare",
+    "brand": "SKY",
+    "variants": [
+      {
+        "name": "Herbal Face Cream - Green Formula",
+        "description": "Green jar - Natural herbal formula for daily skincare",
+        "image": "/images/x1.jpg",
+        "price": 35
+      },
+      {
+        "name": "Whitening Face Cream - Red Formula", 
+        "description": "Red jar - Skin whitening and brightening treatment",
+        "image": "/images/x2.jpg",
+        "price": 40
+      },
+      {
+        "name": "Premium Anti-Aging Cream - Black Formula",
+        "description": "Black jar - Luxury anti-aging treatment",
+        "image": "/images/x3.jpg",
+        "price": 55
+      },
+      {
+        "name": "Moisturizing Cream - Pink Formula",
+        "description": "Pink jar - Deep moisturizing and nourishing cream",
+        "image": "/images/x4.jpg",
+        "price": 38
+      },
+      {
+        "name": "Golden Glow Cream",
+        "description": "Golden jar - Premium glow and radiance treatment",
+        "image": "/images/x5.jpg",
+        "price": 45
+      },
+      {
+        "name": "Vitamin Treatment - Orange Formula",
+        "description": "Orange jar - Vitamin-enriched skin treatment",
+        "image": "/images/x6.jpg",
+        "price": 42
+      }
+    ],
+    "features": [
+      "Multiple skincare variants",
+      "Premium Thai quality",
+      "Natural herbal ingredients", 
+      "Anti-aging properties",
+      "Suitable for all skin types"
+    ],
+    "inStock": true
   }
 ]
