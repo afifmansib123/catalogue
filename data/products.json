@@ -1,373 +1,567 @@
 [
-  {
-    "id": 1,
-    "name": "Bhaesaj Personal Care Collection",
-    "shortDescription": "Complete range of Thai personal care products including shampoos, hair treatments, and facial cleansers.",
-    "description": "Premium BHESAJ brand collection featuring multiple product variants designed for different hair and skin care needs.",
-    "price": 45,
-    "shippingPrice": 8,
-    "unit": "set",
-    "image": "/images/b1.jpg",
-    "images": [
-      "/images/b1.jpg",
-      "/images/b2.jpg", 
-      "/images/b3.jpg",
-      "/images/b4.jpg",
-      "/images/b5.jpg",
-      "/images/b6.jpg",
-      "/images/b7.jpg"
-    ],
-    "category": "Personal Care",
-    "brand": "BHESAJ",
-    "variants": [
-      {
-        "name": "Anti-Dandruff Shampoo",
-        "description": "Blue bottle - Effective dandruff treatment",
-        "image": "/images/b1.jpg",
-        "price": 70
-      },
-      {
-        "name": "Hair Treatment Conditioner", 
-        "description": "Pink bottle - Deep conditioning treatment",
-        "image": "/images/kon.jpg",
-        "price": 50
-      },
-      {
-        "name": "Floral Rose Shampoo",
-        "description": "Pink bottle with flowers - Gentle cleansing",
-        "image": "/images/b3.jpg", 
-        "price": 50
-      },
-      {
-        "name": "Herbal Green Tea Shampoo",
-        "description": "Green bottle - Natural herbal formula",
-        "image": "/images/b4.jpg",
-        "price": 50
-      },
-      {
-        "name": "Facial Cleanser Set",
-        "description": "Pink tubes in box - Complete facial care",
-        "image": "/images/b5.jpg",
-        "price": 70
-      },
-      {
-        "name": "Facial Foam Cleanser",
-        "description": "White and pink tubes - Daily face wash",
-        "image": "/images/b6.jpg",
-        "price": 50
-      },
-      {
-        "name": "Face Wash Cleanser",
-        "description": "Pink and white tubes - Gentle cleansing",
-        "image": "/images/b7.jpg",
-        "price": 20
-      }
-    ],
-    "features": [
-      "Multiple product variants",
-      "Premium Thai quality", 
-      "Suitable for all skin types",
-      "Natural ingredients"
-    ],
-    "inStock": true
-  },
-  {
-    "id": 2,
-    "name": "Kodomo Baby Care Collection",
-    "shortDescription": "Complete range of premium Japanese baby care products including head-to-toe wash, shampoos, powders, and lotions.",
-    "description": "Premium Kodomo brand collection featuring comprehensive baby care products designed for gentle and safe care of babies and children. Includes organic formulas, mosquito protection, and various size options for different needs.",
-    "price": 6000,
-    "shippingPrice": 8,
-    "unit": "piece",
-    "image": "/images/k1.jpg",
-    "images": [
-      "/images/k1.jpg", "/images/k2.jpg", "/images/k3.jpg", "/images/k4.jpg", "/images/k5.jpg",
-      "/images/k6.jpg", "/images/k7.jpg", "/images/k8.jpg", "/images/k9.jpg", "/images/k10.jpg",
-      "/images/k11.jpg", "/images/k12.jpg", "/images/k13.jpg", "/images/k14.jpg", "/images/k15.jpg",
-      "/images/k16.jpg", "/images/k17.jpg", "/images/k18.jpg", "/images/k19.jpg", "/images/k20.jpg",
-      "/images/k21.jpg", "/images/k22.jpg", "/images/k23.jpg", "/images/k24.jpg", "/images/k25.jpg",
-      "/images/k26.jpg", "/images/k27.jpg", "/images/k28.jpg", "/images/k29.jpg", "/images/k30.jpg",
-      "/images/k31.jpg", "/images/k32.jpg", "/images/k33.jpg", "/images/k34.jpg", "/images/k35.jpg",
-      "/images/k36.jpg", "/images/k37.jpg", "/images/k38.jpg", "/images/k39.jpg", "/images/k40.jpg",
-      "/images/k41.jpg", "/images/k42.jpg", "/images/k43.jpg"
-    ],
-    "category": "Baby Care",
-    "brand": "Kodomo",
-    "variants": [
-      {
-        "name": "Oganiku Head to Toe Wash 720ml",
-        "description": "720ml - Organic head to toe wash for daily care",
-        "image": "/images/k1.jpg",
-        "price": 3010
-      },
-      {
-        "name": "Head to Toe Mild Original Prebiotic 800ml",
-        "description": "800ml - Mild original formula with prebiotic",
-        "image": "/images/k2.jpg",
-        "price": 2795
-      },
-      {
-        "name": "Head to Toe Pink Hana Prebiotic 800ml",
-        "description": "800ml - Pink Hana formula with prebiotic",
-        "image": "/images/k3.jpg",
-        "price": 2795
-      },
-      {
-        "name": "Oganiku Head to Toe Wash 360ml",
-        "description": "360ml - Organic head to toe wash",
-        "image": "/images/k4.jpg",
-        "price": 4128
-      },
-      {
-        "name": "Head to Toe Mild Original Prebiotic 400ml",
-        "description": "400ml - Mild original formula with prebiotic",
-        "image": "/images/k5.jpg",
-        "price": 4128
-      },
-      {
-        "name": "Head to Toe Pink Hanabaki 400ml",
-        "description": "400ml - Pink Hanabaki formula",
-        "image": "/images/k6.jpg",
-        "price": 4128
-      },
-      {
-        "name": "Head to Toe Mild Original 200ml",
-        "description": "200ml - Mild original formula",
-        "image": "/images/k7.jpg",
-        "price": 4472
-      },
-      {
-        "name": "Head to Toe Pink Hanabaki 200ml",
-        "description": "200ml - Pink Hanabaki formula",
-        "image": "/images/k8.jpg",
-        "price": 4472
-      },
-      {
-        "name": "Oganiku Head to Toe Wash 320ml",
-        "description": "320ml - Organic head to toe wash",
-        "image": "/images/k9.jpg",
-        "price": 5877
-      },
-      {
-        "name": "Head to Toe 350ml",
-        "description": "350ml - Standard head to toe wash",
-        "image": "/images/k10.jpg",
-        "price": 5877
-      },
-      {
-        "name": "Head to Toe Pink Hanabaki 350ml",
-        "description": "350ml - Pink Hanabaki formula",
-        "image": "/images/k3.jpg",
-        "price": 5877
-      },
-      {
-        "name": "Blue Candy Head to Toe Kids 400ml",
-        "description": "400ml - Blue candy scented for kids",
-        "image": "/images/k12.jpg",
-        "price": 4128
-      },
-      {
-        "name": "Apple Peach Head to Toe Kids 400ml",
-        "description": "400ml - Apple peach scented for kids",
-        "image": "/images/k14.jpg",
-        "price": 4128
-      },
-      {
-        "name": "Head to Toe Kids Pink 400ml",
-        "description": "400ml - Pink formula for kids",
-        "image": "/images/k3.jpg",
-        "price": 4128
-      },
-      {
-        "name": "Head to Toe Kids Red Berry 400ml",
-        "description": "400ml - Red berry scented for kids",
-        "image": "/images/k15.jpg",
-        "price": 4128
-      },
-      {
-        "name": "Blue Candy Head to Toe Kids 200ml",
-        "description": "200ml - Blue candy scented for kids",
-        "image": "/images/k16.jpg",
-        "price": 2236
-      },
-      {
-        "name": "Apple Peach Head to Toe Kids 200ml",
-        "description": "200ml - Apple peach scented for kids",
-        "image": "/images/k14.jpg",
-        "price": 2236
-      },
-      {
-        "name": "Head to Toe Kids Pink 200ml",
-        "description": "200ml - Pink formula for kids",
-        "image": "/images/k2.jpg",
-        "price": 2236
-      },
-      {
-        "name": "Head to Toe Kids Red Berry 200ml",
-        "description": "200ml - Red berry scented for kids",
-        "image": "/images/k15.jpg",
-        "price": 2236
-      },
-      {
-        "name": "Head to Toe Magic Purple 200ml",
-        "description": "200ml - Magic purple formula for kids",
-        "image": "/images/k20.jpg",
-        "price": 2236
-      },
-      {
-        "name": "Original Shampoo 400ml",
-        "description": "400ml - Original gentle shampoo",
-        "image": "/images/k21.jpeg",
-        "price": 3061
-      },
-      {
-        "name": "Gentle Shampoo 400ml",
-        "description": "400ml - Extra gentle shampoo",
-        "image": "/images/k22.jpg",
-        "price": 3061
-      },
-      {
-        "name": "Shampoo Kids Pink Pearl 200ml",
-        "description": "200ml - Pink pearl shampoo for kids",
-        "image": "/images/k23.jpg",
-        "price": 2236
-      },
-      {
-        "name": "Shampoo Kids Pink 200ml",
-        "description": "200ml - Pink shampoo for kids",
-        "image": "/images/k23.jpg",
-        "price": 2236
-      },
-      {
-        "name": "Conditioner Kids Pink 150ml",
-        "description": "150ml - Pink conditioner for kids",
-        "image": "/images/con.jpg",
-        "price": 2064
-      },
-      {
-        "name": "Powder Sweetie Cool 350g",
-        "description": "350g - Sweetie cool scented powder",
-        "image": "/images/k26.jpg",
-        "price": 18685
-      },
-      {
-        "name": "Powder Mosquito Protect 350g",
-        "description": "350g - Mosquito protection powder",
-        "image": "/images/k27.jpg",
-        "price": 18685
-      },
-      {
-        "name": "Gentle Soft Powder 350g",
-        "description": "350g - Gentle soft formula powder",
-        "image": "/images/k28.jpg",
-        "price": 18685
-      },
-      {
-        "name": "Powder Sunshine Kid 350g",
-        "description": "350g - Sunshine scented powder for kids",
-        "image": "/images/k29.jpg",
-        "price": 18685
-      },
-      {
-        "name": "Powder Organic Aloe Vera 350g",
-        "description": "350g - Organic aloe vera powder",
-        "image": "/images/k30.jpg",
-        "price": 18685
-      },
-      {
-        "name": "Extra Mild Powder 350g",
-        "description": "350g - Extra mild formula powder",
-        "image": "/images/k31.jpg",
-        "price": 18685
-      },
-      {
-        "name": "Powder Mosquito Protect 160g",
-        "description": "160g - Mosquito protection powder",
-        "image": "/images/k27.jpg",
-        "price": 3715
-      },
-      {
-        "name": "Gentle Powder 160g",
-        "description": "160g - Gentle formula powder",
-        "image": "/images/k28.jpg",
-        "price": 3715
-      },
-      {
-        "name": "Extra Mild Powder 160g",
-        "description": "160g - Extra mild formula powder",
-        "image": "/images/k31.jpg",
-        "price": 3715
-      },
-      {
-        "name": "Powder Mosquito Protect 50g",
-        "description": "50g - Travel size mosquito protection powder",
-        "image": "/images/k27.jpg",
-        "price": 3317
-      },
-      {
-        "name": "Gentle Powder 50g",
-        "description": "50g - Travel size gentle powder",
-        "image": "/images/k28.jpg",
-        "price": 3317
-      },
-      {
-        "name": "Powder Extra Mild 50g",
-        "description": "50g - Travel size extra mild powder",
-        "image": "/images/k31.jpg",
-        "price": 3317
-      },
-      {
-        "name": "Lotion Powder Newborn 400ml",
-        "description": "400ml - Powder lotion for newborns",
-        "image": "/images/k38.jpg",
-        "price": 5398
-      },
-      {
-        "name": "Lotion Powder Pink Hanabaki 400ml",
-        "description": "400ml - Pink Hanabaki powder lotion",
-        "image": "/images/k38.jpg",
-        "price": 5398
-      },
-      {
-        "name": "Lotion Powder 180ml",
-        "description": "180ml - Standard powder lotion",
-        "image": "/images/k38.jpg",
-        "price": 6197
-      },
-      {
-        "name": "Lotion Powder Pink Variant 180ml",
-        "description": "180ml - Pink variant powder lotion",
-        "image": "/images/k40.jpg",
-        "price": 6197
-      },
-      {
-        "name": "Gift Set Large",
-        "description": "Large gift set - Complete baby care collection",
-        "image": "/images/kl.jpg",
-        "price": 8312
-      },
-      {
-        "name": "Gift Set Small",
-        "description": "Small gift set - Essential baby care items",
-        "image": "/images/kl.jpg",
-        "price": 5897
-      }
-    ],
-    "features": [
-      "Premium Japanese baby care",
-      "Organic and gentle formulas",
-      "Mosquito protection options",
-      "Multiple size variations",
-      "Safe for newborns and children",
-      "Prebiotic formulations available"
-    ],
-    "inStock": true
-  },
+{
+  "id": 1,
+  "name": "BHAESAJ Beauty Care Collection",
+  "shortDescription": "Complete range of premium Thai beauty care products including body lotions, facial serums, moisturizers, and soap bars.",
+  "description": "Premium BHAESAJ brand collection featuring comprehensive beauty care products designed for skin whitening, moisturizing, and anti-aging care. Includes Alpha Arbutin formulas, collagen treatments, and natural soap bars with various size options for different needs.",
+  "price": 31194,
+  "shippingPrice": 15,
+  "unit": "piece",
+  "image": "/images/b4.jpg",
+  "images": [
+    "/images/b1.jpg", "/images/b2.jpg", "/images/b3.jpg", "/images/b4.jpg", "/images/b5.jpg",
+    "/images/b6.jpg", "/images/b7.jpg", "/images/b1.jpg", "/images/b1.jpg", "/images/b10.jpg",
+    "/images/b11.jpg", "/images/b12.jpg", "/images/b13.jpg", "/images/b14.jpg", "/images/b15.jpg",
+    "/images/b16.jpg", "/images/b17.jpg", "/images/b18.jpg", "/images/b19.jpg", "/images/b1.jpg"
+  ],
+  "category": "Beauty Care",
+  "brand": "BHAESAJ",
+  "variants": [
+    {
+      "name": "Alpha Arbutin Body Lotion 150ml (6/pack)",
+      "description": "150ml - 6 pieces per pack",
+      "image": "/images/b4.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 2288,
+      "pricePerPiece": 381.33
+    },
+    {
+      "name": "Alpha Arbutin Body Lotion 250ml (3/pack)",
+      "description": "250ml - 3 pieces per pack",
+      "image": "/images/b2.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 1813,
+      "pricePerPiece": 604.33
+    },
+    {
+      "name": "Alpha Arbutin Body Lotion 400ml (2 pieces)",
+      "description": "400ml - 2 pieces per pack",
+      "image": "/images/b4.jpg",
+      "piecesPerCarton": 2,
+      "pricePerCarton": 1992,
+      "pricePerPiece": 996.00
+    },
+    {
+      "name": "Collagen Body Lotion 150ml (6/pack)",
+      "description": "150ml - 6 pieces per pack",
+      "image": "/images/b3.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 2212,
+      "pricePerPiece": 368.67
+    },
+    {
+      "name": "Collagen Body Lotion 250ml (3/pack)",
+      "description": "250ml - 3 pieces per pack",
+      "image": "/images/b3.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 1705,
+      "pricePerPiece": 568.33
+    },
+    {
+      "name": "Collagen Body Lotion 400ml (2 pieces)",
+      "description": "400ml - 2 pieces per pack",
+      "image": "/images/b3.jpg",
+      "piecesPerCarton": 2,
+      "pricePerCarton": 1857,
+      "pricePerPiece": 928.50
+    },
+    {
+      "name": "24 Hour Protection Body Lotion 150ml (6/pack)",
+      "description": "150ml - 6 pieces per pack",
+      "image": "/images/b1.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 2133,
+      "pricePerPiece": 355.50
+    },
+    {
+      "name": "24 Hour Protection Body Lotion 250ml (3/pack)",
+      "description": "250ml - 3 pieces per pack",
+      "image": "/images/b1.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 1658,
+      "pricePerPiece": 552.67
+    },
+    {
+      "name": "24 Hour Protection Body Lotion 400ml (2 pieces)",
+      "description": "400ml - 2 pieces per pack",
+      "image": "/images/b1.jpg",
+      "piecesPerCarton": 2,
+      "pricePerCarton": 1801,
+      "pricePerPiece": 900.50
+    },
+    {
+      "name": "Red Love Apple Body Lotion 150ml (6/pack)",
+      "description": "150ml - 6 pieces per pack",
+      "image": "/images/b2.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 2133,
+      "pricePerPiece": 355.50
+    },
+    {
+      "name": "Red Love Apple Body Lotion 250ml (3/pack)",
+      "description": "250ml - 3 pieces per pack",
+      "image": "/images/b2.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 1666,
+      "pricePerPiece": 555.33
+    },
+    {
+      "name": "Red Love Apple Body Lotion 400ml (2 pieces)",
+      "description": "400ml - 2 pieces per pack",
+      "image": "/images/b2.jpg",
+      "piecesPerCarton": 2,
+      "pricePerCarton": 1801,
+      "pricePerPiece": 900.50
+    },
+    {
+      "name": "Facial Serum 20ml (6/pack)",
+      "description": "20ml - 6 pieces per pack",
+      "image": "/images/sr.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 816,
+      "pricePerPiece": 136.00
+    },
+    {
+      "name": "Moisturizer Cream 20ml (6/pack)",
+      "description": "20ml - 6 pieces per pack",
+      "image": "/images/b7.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 967,
+      "pricePerPiece": 161.17
+    },
+    {
+      "name": "Moisturizer Cream 50ml (6/pack)",
+      "description": "50ml - 6 pieces per pack",
+      "image": "/images/b6.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 1575,
+      "pricePerPiece": 262.50
+    },
+    {
+      "name": "Moisturizer Lotion 70ml (6/pack)",
+      "description": "70ml - 6 pieces per pack",
+      "image": "/images/b5.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 1357,
+      "pricePerPiece": 226.17
+    },
+    {
+      "name": "Rice Milk Soap 90g (3/pack)",
+      "description": "90g - 3 pieces per pack",
+      "image": "/images/bhe.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 707,
+      "pricePerPiece": 235.67
+    },
+    {
+      "name": "Rice Milk Soap 130g (3/pack)",
+      "description": "130g - 3 pieces per pack",
+      "image": "/images/bhe.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 1005,
+      "pricePerPiece": 335.00
+    },
+    {
+      "name": "Mixed Berry Soap 90g (3/pack)",
+      "description": "90g - 3 pieces per pack",
+      "image": "/images/bhe1.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 707,
+      "pricePerPiece": 235.67
+    },
+    {
+      "name": "Mixed Berry Soap 130g (3/pack)",
+      "description": "130g - 3 pieces per pack",
+      "image": "/images/bhe1.jpg",
+      "piecesPerCarton": 3,
+      "pricePerCarton": 1001,
+      "pricePerPiece": 333.67
+    }
+  ]
+},
+{
+  "id": 2,
+  "name": "Kodomo Baby Care Collection",
+  "shortDescription": "Complete range of premium Japanese baby care products including head-to-toe wash, shampoos, powders, and lotions.",
+  "description": "Premium Kodomo brand collection featuring comprehensive baby care products designed for gentle and safe care of babies and children. Includes organic formulas, mosquito protection, and various size options for different needs.",
+  "price": 6000,
+  "shippingPrice": 8,
+  "unit": "piece",
+  "image": "/images/k1.jpg",
+  "images": [
+    "/images/k1.jpg", "/images/k2.jpg", "/images/k3.jpg", "/images/k4.jpg", "/images/k5.jpg",
+    "/images/k6.jpg", "/images/k7.jpg", "/images/k8.jpg", "/images/k9.jpg", "/images/k10.jpg",
+    "/images/k11.jpg", "/images/k12.jpg", "/images/k13.jpg", "/images/k14.jpg", "/images/k15.jpg",
+    "/images/k16.jpg", "/images/k17.jpg", "/images/k18.jpg", "/images/k19.jpg", "/images/k20.jpg",
+    "/images/k21.jpg", "/images/k22.jpg", "/images/k23.jpg", "/images/k24.jpg", "/images/k25.jpg",
+    "/images/k26.jpg", "/images/k27.jpg", "/images/k28.jpg", "/images/k29.jpg", "/images/k30.jpg",
+    "/images/k31.jpg", "/images/k32.jpg", "/images/k33.jpg", "/images/k34.jpg", "/images/k35.jpg",
+    "/images/k36.jpg", "/images/k37.jpg", "/images/k38.jpg", "/images/k39.jpg", "/images/k40.jpg",
+    "/images/k41.jpg", "/images/k42.jpg", "/images/k43.jpg"
+  ],
+  "category": "Baby Care",
+  "brand": "Kodomo",
+  "variants": [
+    {
+      "name": "KD Oganiku Head to Toe Wash 720ml",
+      "description": "720ml - 6 pieces per carton",
+      "image": "/images/k1.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 10289.83,
+      "pricePerPiece": 1714.97
+    },
+    {
+      "name": "KD HeadtoToeMildOriPrebiotic 800ml",
+      "description": "800ml - 6 pieces per carton",
+      "image": "/images/k2.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 10594.84,
+      "pricePerPiece": 1765.81
+    },
+    {
+      "name": "KD HeadtoToe PinkHanaPrebio 800ml",
+      "description": "800ml - 6 pieces per carton",
+      "image": "/images/k3.jpg",
+      "piecesPerCarton": 6,
+      "pricePerCarton": 10594.84,
+      "pricePerPiece": 1765.81
+    },
+    {
+      "name": "KD Oganiku Head to Toe Wash 360ml",
+      "description": "360ml - 12 pieces per carton",
+      "image": "/images/k4.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 11667.76,
+      "pricePerPiece": 972.31
+    },
+    {
+      "name": "KD HeadToToe MildOriPrebiotic 400ML",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k5.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 12187.76,
+      "pricePerPiece": 1015.65
+    },
+    {
+      "name": "KD Head to Toe Pink Hanabaki 400ml",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k6.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 12187.76,
+      "pricePerPiece": 1015.65
+    },
+    {
+      "name": "KD Head To Toe Mild Original 200ML",
+      "description": "200ml - 24 pieces per carton",
+      "image": "/images/k7.jpg",
+      "piecesPerCarton": 24,
+      "pricePerCarton": 13831.74,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD Head to Toe Pink Hanabaki 200ml",
+      "description": "200ml - 24 pieces per carton",
+      "image": "/images/k8.jpg",
+      "piecesPerCarton": 24,
+      "pricePerCarton": 13831.74,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD Oganiku Head to Toe Wash 320ml",
+      "description": "320ml - 24 pieces per carton",
+      "image": "/images/k9.jpg",
+      "piecesPerCarton": 24,
+      "pricePerCarton": 19137.14,
+      "pricePerPiece": 797.38
+    },
+    {
+      "name": "Kodomo Head to Toe 350ml",
+      "description": "350ml - 24 pieces per carton",
+      "image": "/images/k10.jpg",
+      "piecesPerCarton": 24,
+      "pricePerCarton": 19917.14,
+      "pricePerPiece": 829.88
+    },
+    {
+      "name": "KD Head to Toe Pink Hanabaki 350ml",
+      "description": "350ml - 24 pieces per carton",
+      "image": "/images/k3.jpg",
+      "piecesPerCarton": 24,
+      "pricePerCarton": 19917.14,
+      "pricePerPiece": 829.88
+    },
+    {
+      "name": "KD Blue Candy HeadtoToe Kids 400ml",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k12.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 12187.76,
+      "pricePerPiece": 1015.65
+    },
+    {
+      "name": "KD Apple Peach KDT Kids 400ml",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/ap.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 12187.76,
+      "pricePerPiece": 1015.65
+    },
+    {
+      "name": "KD Head to Toe Kids Pink 400ml",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k14.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 12187.76,
+      "pricePerPiece": 1015.65
+    },
+    {
+      "name": "KD HeadtoToe Kids Red Berry 400ml",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k15.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 12187.76,
+      "pricePerPiece": 1015.65
+    },
+    {
+      "name": "KD Blue Candy HeadtoToe Kids 200ml",
+      "description": "200ml - 12 pieces per carton",
+      "image": "/images/k16.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 6915.87,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD Apple Peach KDT Kids 200ml",
+      "description": "200ml - 12 pieces per carton",
+      "image": "/images/ap.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 6915.87,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD Head to Toe Kids Pink 200ml",
+      "description": "200ml - 12 pieces per carton",
+      "image": "/images/k14.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 6915.87,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD HeadtoToe Kids Red 200ml",
+      "description": "200ml - 12 pieces per carton",
+      "image": "/images/k5.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 6915.87,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD Head to Toe Magic Purple 200ml",
+      "description": "200ml - 12 pieces per carton",
+      "image": "/images/k20.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 6915.87,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD Original Sham 400ML",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k21.jpeg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 11121.42,
+      "pricePerPiece": 926.79
+    },
+    {
+      "name": "KD Gentel Sham 400ML",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k22.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 11121.42,
+      "pricePerPiece": 926.79
+    },
+    {
+      "name": "KD Shampoo Kids Pink Pearl 200ml",
+      "description": "200ml - 12 pieces per carton",
+      "image": "/images/k23.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 6915.87,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "KD Shampoo Kids Pink 200ml",
+      "description": "200ml - 12 pieces per carton",
+      "image": "/images/k23.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 6915.87,
+      "pricePerPiece": 576.32
+    },
+    {
+      "name": "Kodomo Conditioner Kids Pink 150ml",
+      "description": "150ml - 12 pieces per carton",
+      "image": "/images/con.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 5963.88,
+      "pricePerPiece": 497.00
+    },
+    {
+      "name": "KD Powder-Sweetie Cool 350G",
+      "description": "350g - 36 pieces per carton",
+      "image": "/images/k26.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 39225.49,
+      "pricePerPiece": 1089.60
+    },
+    {
+      "name": "KD PowderMosquitoProtect 350G",
+      "description": "350g - 36 pieces per carton",
+      "image": "/images/k27.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 39225.49,
+      "pricePerPiece": 1089.60
+    },
+    {
+      "name": "KD Gentel Soft 350G",
+      "description": "350g - 36 pieces per carton",
+      "image": "/images/k28.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 39225.49,
+      "pricePerPiece": 1089.60
+    },
+    {
+      "name": "KD Pow-Sunshine Kid 350G",
+      "description": "350g - 36 pieces per carton",
+      "image": "/images/k29.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 39225.49,
+      "pricePerPiece": 1089.60
+    },
+    {
+      "name": "KD Powder Organic Aloe Vera 350G",
+      "description": "350g - 36 pieces per carton",
+      "image": "/images/k30.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 39225.49,
+      "pricePerPiece": 1089.60
+    },
+    {
+      "name": "KD Extra Mild Powder 350G",
+      "description": "350g - 36 pieces per carton",
+      "image": "/images/k31.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 39225.49,
+      "pricePerPiece": 1089.60
+    },
+    {
+      "name": "KD Powder Mosquito protect 160G",
+      "description": "160g - 48 pieces per carton",
+      "image": "/images/k29.jpg",
+      "piecesPerCarton": 48,
+      "pricePerCarton": 17234.98,
+      "pricePerPiece": 359.06
+    },
+    {
+      "name": "KD Gentle Powder 160G",
+      "description": "160g - 48 pieces per carton",
+      "image": "/images/k38.jpg",
+      "piecesPerCarton": 48,
+      "pricePerCarton": 17234.98,
+      "pricePerPiece": 359.06
+    },
+    {
+      "name": "KD Extra Mild Powder 160G",
+      "description": "160g - 48 pieces per carton",
+      "image": "/images/k31.jpg",
+      "piecesPerCarton": 48,
+      "pricePerCarton": 17234.98,
+      "pricePerPiece": 359.06
+    },
+    {
+      "name": "KD Powder Mosquito 50g",
+      "description": "50g - 72 pieces per carton",
+      "image": "/images/k29.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 10856.95,
+      "pricePerPiece": 150.79
+    },
+    {
+      "name": "KD Gentle Powder 50G",
+      "description": "50g - 72 pieces per carton",
+      "image": "/images/k38.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 10856.95,
+      "pricePerPiece": 150.79
+    },
+    {
+      "name": "KD Powder Extra Mild 50G",
+      "description": "50g - 72 pieces per carton",
+      "image": "/images/k31.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 10856.95,
+      "pricePerPiece": 150.79
+    },
+    {
+      "name": "KD Lotion Powder Newborn 400ml",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k38.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 14238.03,
+      "pricePerPiece": 1186.50
+    },
+    {
+      "name": "KD Lotion PowPink Hanabaki 400ml",
+      "description": "400ml - 12 pieces per carton",
+      "image": "/images/k6.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 14238.03,
+      "pricePerPiece": 1186.50
+    },
+    {
+      "name": "Kodomo Lotion Powder 180ML",
+      "description": "180ml - 24 pieces per carton",
+      "image": "/images/k40.jpg",
+      "piecesPerCarton": 24,
+      "pricePerCarton": 14646.55,
+      "pricePerPiece": 610.27
+    },
+    {
+      "name": "KD LotionPow(Pink Variant) 180G",
+      "description": "180ml - 24 pieces per carton",
+      "image": "/images/k40.jpg",
+      "piecesPerCarton": 24,
+      "pricePerCarton": 14646.55,
+      "pricePerPiece": 610.27
+    },
+    {
+      "name": "Kodomo Gift Set-Large",
+      "description": "Large gift set - 12 pieces per carton",
+      "image": "/images/kl.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 21962.03,
+      "pricePerPiece": 1830.17
+    },
+    {
+      "name": "Kodomo Gift Set-Small",
+      "description": "Small gift set - 12 pieces per carton",
+      "image": "/images/kl.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 14736.80,
+      "pricePerPiece": 1228.07
+    }
+  ],
+  "features": [
+    "Premium Japanese baby care",
+    "Organic and gentle formulas",
+    "Mosquito protection options",
+    "Multiple size variations",
+    "Safe for newborns and children",
+    "Prebiotic formulations available"
+  ],
+  "inStock": true
+},
   {
     "id": 3,
     "name": "Gluta Collagen Health Supplement Collection",
     "shortDescription": "Complete range of glutathione and collagen supplements for skin whitening and anti-aging benefits.",
-    "description": "Premium Gluta brand collection featuring multiple supplement variants designed for skin whitening, anti-aging, and overall health benefits. Each variant offers unique formulations for different needs.",
+    "description": "Premium Gluta brand collection featuring multiple supplement variants designed for skin whitening, anti-aging, and overall health benefits. Each variant offers unique formulations for different needs. Price per product",
     "price": 40,
     "shippingPrice": 8,
     "unit": "pack",
@@ -385,25 +579,25 @@
         "name": "Gluta Collagen Mixed Berry",
         "description": "Pink pack - Glutathione & collagen with mixed berry flavor",
         "image": "/images/g1.jpg",
-        "price": 35
+        "price": 1296
       },
       {
         "name": "Gluta Collagen Bird Nest",
         "description": "Blue pack - Premium formula with bird's nest extract",
         "image": "/images/g2.jpg",
-        "price": 55
+        "price": 1346
       },
       {
         "name": "Gluta Collagen Pink Formula",
         "description": "Pink pack - Special formula with berry extracts",
         "image": "/images/g3.jpg",
-        "price": 38
+        "price": 1346
       },
       {
         "name": "Gluta Amazing Antioxidant Complex",
         "description": "Purple pack - Advanced antioxidant complex formula",
         "image": "/images/g4.jpg",
-        "price": 42
+        "price": 1486
       }
     ],
     "features": [
@@ -415,138 +609,168 @@
     ],
     "inStock": true
   },
-  {
-    "id": 4,
-    "name": "Vita C+ Vitamin C Supplement",
-    "shortDescription": "High-potency Vitamin C supplement in convenient powder form for immune support and skin health.",
-    "description": "Premium Vitamin C supplement in easy-to-mix powder form. Provides high-potency vitamin C for immune system support, collagen synthesis, and overall skin health. Perfect for daily wellness routine.",
-    "price": 28,
-    "shippingPrice": 8,
-    "unit": "pack",
-    "image": "/images/c.jpg",
-    "images": [
-      "/images/c.jpg"
-    ],
-    "category": "Health Supplements",
-    "brand": "Vita C+",
-    "features": [
-      "High-potency Vitamin C",
-      "Easy-to-mix powder",
-      "Immune system support",
-      "Collagen synthesis",
-      "Daily wellness supplement"
-    ],
-    "inStock": true
-  },
-  {
-    "id": 5,
-    "name": "VATINY UV Powder Cover Collection",
-    "shortDescription": "Professional UV protection powder compact collection with multiple shade options for flawless coverage.",
-    "description": "Premium VATINY UV Powder Cover collection featuring professional-grade powder compacts with UV protection. Available in multiple shades to match different skin tones, providing excellent coverage and sun protection.",
-    "price": 32,
-    "shippingPrice": 8,
-    "unit": "piece",
-    "image": "/images/v1.jpg",
-    "images": [
-      "/images/v1.jpg",
-      "/images/v2.jpg",
-      "/images/v3.jpg"
-    ],
-    "category": "Cosmetics",
-    "brand": "VATINY",
-    "variants": [
-      {
-        "name": "UV Powder Cover - Shade No.1",
-        "description": "Light shade - Perfect for fair skin tones",
-        "image": "/images/v1.jpg",
-        "price": 32
-      },
-      {
-        "name": "UV Powder Cover - Shade No.2",
-        "description": "Medium shade - Ideal for medium skin tones",
-        "image": "/images/v2.jpg",
-        "price": 32
-      },
-      {
-        "name": "UV Powder Cover - Shade No.3",
-        "description": "Deep shade - Suitable for darker skin tones",
-        "image": "/images/v3.jpg",
-        "price": 32
-      }
-    ],
-    "features": [
-      "UV protection formula",
-      "Multiple shade options",
-      "Professional powder compact",
-      "Long-lasting coverage",
-      "Portable mirror included"
-    ],
-    "inStock": true
-  },
-  {
-    "id": 6,
-    "name": "SKY Premium Skincare Collection",
-    "shortDescription": "Complete range of premium Thai skincare products including face creams, herbal balms, and anti-aging treatments.",
-    "description": "Premium SKY brand collection featuring multiple skincare variants designed for different skin care needs. Includes herbal face creams, whitening treatments, anti-aging balms, and premium skincare solutions.",
-    "price": 38,
-    "shippingPrice": 8,
-    "unit": "jar",
-    "image": "/images/x1.jpg",
-    "images": [
-      "/images/x1.jpg",
-      "/images/x2.jpg", 
-      "/images/x3.jpg",
-      "/images/x4.jpg",
-      "/images/x5.jpg",
-      "/images/x6.jpg"
-    ],
-    "category": "Skincare",
-    "brand": "SKY",
-    "variants": [
-      {
-        "name": "Herbal Face Cream - Green Formula",
-        "description": "Green jar - Natural herbal formula for daily skincare",
-        "image": "/images/x1.jpg",
-        "price": 35
-      },
-      {
-        "name": "Whitening Face Cream - Red Formula", 
-        "description": "Red jar - Skin whitening and brightening treatment",
-        "image": "/images/x2.jpg",
-        "price": 40
-      },
-      {
-        "name": "Premium Anti-Aging Cream - Black Formula",
-        "description": "Black jar - Luxury anti-aging treatment",
-        "image": "/images/x3.jpg",
-        "price": 55
-      },
-      {
-        "name": "Moisturizing Cream - Pink Formula",
-        "description": "Pink jar - Deep moisturizing and nourishing cream",
-        "image": "/images/x4.jpg",
-        "price": 38
-      },
-      {
-        "name": "Golden Glow Cream",
-        "description": "Golden jar - Premium glow and radiance treatment",
-        "image": "/images/x5.jpg",
-        "price": 45
-      },
-      {
-        "name": "Vitamin Treatment - Orange Formula",
-        "description": "Orange jar - Vitamin-enriched skin treatment",
-        "image": "/images/x6.jpg",
-        "price": 42
-      }
-    ],
-    "features": [
-      "Multiple skincare variants",
-      "Premium Thai quality",
-      "Natural herbal ingredients", 
-      "Anti-aging properties",
-      "Suitable for all skin types"
-    ],
-    "inStock": true
-  }
+{
+  "id": 4,
+  "name": "Kim Cream Premium Skincare Collection",
+  "shortDescription": "Complete range of premium Thai skincare creams including snowlotus, sunscreen, aloe vera, ginseng, turmeric, and SKY cream formulations.",
+  "description": "Premium Kim Cream brand collection featuring comprehensive skincare products designed for various skin care needs. Includes natural herbal formulations, anti-aging treatments, sun protection, and moisturizing solutions with multiple quantity options for different requirements.",
+  "price": 94674,
+  "shippingPrice": 25,
+  "unit": "box",
+  "image": "/images/x1.jpg",
+  "images": [
+    "/images/x1.jpg", "/images/x2.jpg", "/images/x3.jpg", "/images/x4.jpg", "/images/x5.jpg",
+    "/images/x6.jpg", "/images/x1.jpg", "/images/x2.jpg", "/images/x3.jpg", "/images/x10.jpg",
+    "/images/x11.jpg", "/images/x12.jpg", "/images/x13.jpg", "/images/x14.jpg", "/images/x15.jpg",
+    "/images/x16.jpg", "/images/x17.jpg", "/images/x18.jpg"
+  ],
+  "category": "Skincare",
+  "brand": "Kim Cream",
+  "variants": [
+    {
+      "name": "Snowlotus Cream 20g (1 box - 12 pieces)",
+      "description": "20g - 12 pieces per box, 0.8kg gross weight",
+      "image": "/images/x1.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 2912,
+      "pricePerPiece": 242.67
+    },
+    {
+      "name": "Snowlotus Cream 20g (3 boxes - 36 pieces)",
+      "description": "20g - 36 pieces total, 2.5kg gross weight",
+      "image": "/images/x1.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 8632,
+      "pricePerPiece": 239.78
+    },
+    {
+      "name": "Snowlotus Cream 20g (6 boxes - 72 pieces)",
+      "description": "20g - 72 pieces total, 5.0kg gross weight",
+      "image": "/images/x1.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 16562,
+      "pricePerPiece": 230.03
+    },
+    {
+      "name": "Sunscreen 20g (1 box - 12 pieces)",
+      "description": "20g - 12 pieces per box, 0.8kg gross weight",
+      "image": "/images/x2.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 2912,
+      "pricePerPiece": 242.67
+    },
+    {
+      "name": "Sunscreen 20g (3 boxes - 36 pieces)",
+      "description": "20g - 36 pieces total, 2.5kg gross weight",
+      "image": "/images/x2.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 8632,
+      "pricePerPiece": 239.78
+    },
+    {
+      "name": "Sunscreen 20g (6 boxes - 72 pieces)",
+      "description": "20g - 72 pieces total, 5.0kg gross weight",
+      "image": "/images/x2.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 16562,
+      "pricePerPiece": 230.03
+    },
+    {
+      "name": "Aloe Vera 20g (1 box - 12 pieces)",
+      "description": "20g - 12 pieces per box, 0.8kg gross weight",
+      "image": "/images/x3.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 2912,
+      "pricePerPiece": 242.67
+    },
+    {
+      "name": "Aloe Vera 20g (3 boxes - 36 pieces)",
+      "description": "20g - 36 pieces total, 2.5kg gross weight",
+      "image": "/images/x3.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 8632,
+      "pricePerPiece": 239.78
+    },
+    {
+      "name": "Aloe Vera 20g (6 boxes - 72 pieces)",
+      "description": "20g - 72 pieces total, 5.0kg gross weight",
+      "image": "/images/x3.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 16562,
+      "pricePerPiece": 230.03
+    },
+    {
+      "name": "Ginseng Cream 20g (1 box - 12 pieces)",
+      "description": "20g - 12 pieces per box, 0.8kg gross weight",
+      "image": "/images/x4.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 2912,
+      "pricePerPiece": 242.67
+    },
+    {
+      "name": "Ginseng Cream 20g (3 boxes - 36 pieces)",
+      "description": "20g - 36 pieces total, 2.5kg gross weight",
+      "image": "/images/x4.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 8632,
+      "pricePerPiece": 239.78
+    },
+    {
+      "name": "Ginseng Cream 20g (6 boxes - 72 pieces)",
+      "description": "20g - 72 pieces total, 5.0kg gross weight",
+      "image": "/images/x4.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 16562,
+      "pricePerPiece": 230.03
+    },
+    {
+      "name": "Turmeric Cream 20g (1 box - 12 pieces)",
+      "description": "20g - 12 pieces per box, 0.8kg gross weight",
+      "image": "/images/x5.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 2912,
+      "pricePerPiece": 242.67
+    },
+    {
+      "name": "Turmeric Cream 20g (3 boxes - 36 pieces)",
+      "description": "20g - 36 pieces total, 2.5kg gross weight",
+      "image": "/images/x5.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 8632,
+      "pricePerPiece": 239.78
+    },
+    {
+      "name": "Turmeric Cream 20g (6 boxes - 72 pieces)",
+      "description": "20g - 72 pieces total, 5.0kg gross weight",
+      "image": "/images/x5.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 16562,
+      "pricePerPiece": 230.03
+    },
+    {
+      "name": "SKY Cream 20g (1 box - 12 pieces)",
+      "description": "20g - 12 pieces per box, 0.8kg gross weight",
+      "image": "/images/x6.jpg",
+      "piecesPerCarton": 12,
+      "pricePerCarton": 2912,
+      "pricePerPiece": 242.67
+    },
+    {
+      "name": "SKY Cream 20g (3 boxes - 36 pieces)",
+      "description": "20g - 36 pieces total, 2.5kg gross weight",
+      "image": "/images/x6.jpg",
+      "piecesPerCarton": 36,
+      "pricePerCarton": 8632,
+      "pricePerPiece": 239.78
+    },
+    {
+      "name": "SKY Cream 20g (6 boxes - 72 pieces)",
+      "description": "20g - 72 pieces total, 5.0kg gross weight",
+      "image": "/images/x6.jpg",
+      "piecesPerCarton": 72,
+      "pricePerCarton": 16562,
+      "pricePerPiece": 230.03
+    }
+  ]
+}
 ]
